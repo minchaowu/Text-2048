@@ -3,8 +3,8 @@ import copy
 
 class slot(object):
 	"""
-	A slot is represented by a pair of intergers
-	indicating its position and an interger indicating
+	A slot is represented by a pair of integers
+	indicating its position and an integer indicating
 	its value.
 	"""
 	def __init__(self, x, y, value):
